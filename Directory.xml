@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Directory.xml      K. J. Turner    09/01/14 -->
+
+<directory>
+  <subscriber>
+    <name>Mark Adler</name>
+    <phone>104 678</phone>
+  </subscriber>
+  <subscriber>
+    <name>Mary Allan</name>
+    <phone exchange="01786">913 265</phone>
+  </subscriber>
+  <subscriber>
+    <name>Brian Collins</name>
+    <phone exchange="01786">942 110</phone>
+  </subscriber>
+  <subscriber>
+    <name>Tom Johnson</name>
+    <phone exchange="01324">305 618</phone>
+  </subscriber>
+  <subscriber>
+    <name>Jane Malcolm</name>
+    <phone>151 698</phone>
+  </subscriber>
+  <subscriber>
+    <name>Cora Peters</name>
+    <phone exchange="01877">204 897</phone>
+  </subscriber>
+</directory>
